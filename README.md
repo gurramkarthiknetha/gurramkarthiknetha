@@ -3,13 +3,7 @@
 <h1 align="center">Hi there👋, I'm Gurram karthik</h1>
 
 <h4 align="center">Pursuing B.Tech from vnrvjiet</h4>
-<p align="center">
-	<a href="https://vansh-codes.github.io">Profile</a> - 
-	<a href="https://linkedin.com/in/vanshchaurasiya24">LinkedIn</a> - 
-	<a href="mailto:vanshchaurasiya1557@gmail.com">Email</a> - 
-	<a href="https://x.com/VanshChaurasiy4">X</a> -
-	<a href="https://medium.com/@vanshchaurasiya1557">Medium</a>
-</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vansh-codes&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="vansh-codes" /> </p>
   
