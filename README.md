@@ -2,26 +2,10 @@
 
 <h1 align="center">Hi there👋, I'm Gurram karthik</h1>
 
-<h4 align="center">Pursuing B.Tech from vnrvjiet</h4>
+<h4 align="center">Aspiring Data Scientist | GSoC Enthusiast | B.Tech Student from VNRVJIET </h4>
+<p align="center"> Currently pursuing a B.Tech degree from VNR Vignana Jyothi Institute of Engineering & Technology, with a strong passion for data science and innovation. I am driven by the goal of cracking the Google Summer of Code (GSoC) and building a career as a data scientist. With a commitment to continuous learning and skill-building, I am on a path to make impactful contributions to the tech industry. Expected to graduate in 2027.</p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vansh-codes&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="vansh-codes" /> </p>
-  
-<br>
-
-  <details>
-  <summary><strong>Trophies</strong></summary>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vansh-codes&theme=discord" alt="vansh-codes" /></a> </p>
-  </details>
-
-
-
-### Learning:
-<div align="left">
-<img src="https://skillicons.dev/icons?i=nextjs,typescript" />
-</div>
-
-<br />
 
 ## Languages and Tools: <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40" height="30px">
 <div align="center">
@@ -32,6 +16,27 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,postman,md,vscode,windows,linux" />
   <br />
 </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vansh-codes&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="vansh-codes" /> </p>
+  
+<br>
+
+
+
+
+
+### Learning:
+<div align="left">
+<img src="https://skillicons.dev/icons?i=nextjs,typescript" />
+</div>
+
+<br />
+  <details>
+  <summary><strong>Trophies</strong></summary>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vansh-codes&theme=discord" alt="vansh-codes" /></a> </p>
+  </details>
+  
+
  <h2 align='center'><i>🥇 Open Source Projects open for contributions🚀</i></h2>
 <div align="center">
   <table>
