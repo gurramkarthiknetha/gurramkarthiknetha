@@ -18,7 +18,7 @@
 
 ### Learning:
 <div align="left">
-<img src="https://skillicons.dev/icons?nextjs,typescript" />
+<img src="https://skillicons.dev/icons?i=nextjs,typescript" />
 </div>
 
 <br />
