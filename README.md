@@ -9,11 +9,11 @@
 
 ## Languages and Tools: <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40" height="30px">
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,c,py,java" /> 
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,c,py,java,aws" /> 
   <br>
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,bootstrap,tailwind,vite,figma,jquery" />
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,bootstrap,tailwind,vite,figma,flutter,nextjs" />
   <br>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,postman,md,vscode,windows,linux" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,postman,vscode,windows,linux,react-native" />
   <br />
 </div>
 
@@ -27,7 +27,7 @@
 
 ### Learning:
 <div align="left">
-<img src="https://skillicons.dev/icons?i=nextjs,typescript" />
+<img src="https://skillicons.dev/icons?i=django" />
 </div>
 
 <br />
