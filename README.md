@@ -17,7 +17,6 @@
   <br />
 </div>
 
-<p align="left"> <img src="" alt="Gurram-karthik" /> </p>
   
 <br>
 
